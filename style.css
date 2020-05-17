@@ -139,6 +139,7 @@ p {
   font-size: 16px;
 }
 
+/* Card styling from https://inclusive-components.design/cards/ */
 .cards > ul {
     list-style: none;
 }
