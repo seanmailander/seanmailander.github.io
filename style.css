@@ -109,6 +109,10 @@ a:hover {
   border-bottom: 1px solid var(--color-complement-1);
 }
 
+a img {
+    height: 24px;
+}
+
 p {
   text-align: center;
   font-size: 16px;
